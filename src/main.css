@@ -84,6 +84,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  overflow-y: scroll;
 }
 
 .card {
@@ -115,6 +116,7 @@ body {
     align-items: center;
     margin-left: 0;
     align-self: center;
+    overflow-y: scroll;
   }
   .card {
     margin-right: 0;
